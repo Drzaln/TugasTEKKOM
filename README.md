@@ -1,2 +1,2 @@
 # TugasTEKKOM
-Tugas TEKKOM Pak Aji
+Make simple programming languange
